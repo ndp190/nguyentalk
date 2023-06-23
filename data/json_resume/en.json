@@ -1,50 +1,20 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
-    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "name": "Nguyên Nguyễn",
+    "label": "",
+    "image": "http://nguyentalk.com/nguyen.webp",
+    "email": "winnienguyen2908@gmail.com",
+    "phone": "",
+    "summary": "Chào mừng các bạn đến với ”Chuyện nghề nghiệp cùng Nguyên Nguyễn”, được phát sóng vào 8h tối Thứ 5 hàng tuần! Đây là nơi mà mỗi tuần, chúng ta sẽ gặp gỡ các khách mời khác nhau, để cùng nhau tìm hiểu về hành trình sự nghiệp, thách thức và kinh nghiệm của họ trong công việc.\n\r Qua podcast này, Nguyên hy vọng mang đến cho các bạn những phút giây thư giãn, và đôi khi, những gợi ý, thông tin hữu ích và nguồn cảm hứng để phát triển sự nghiệp của riêng bạn.",
     "location": {
-      "city": "San Francisco"
+      "city": ""
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
-      },
-      {
-        "network": "GitHub",
-        "username": "hugo-mod-github-readme-stats",
-        "url": "https://github.com/schnerring/hugo-mod-github-readme-stats"
-      },
-      {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
-      },
-      {
-        "network": "Twitter",
-        "url": "https://twitter.com/SiliconHBO"
-      },
-      {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "network": "LinkedIn",
+        "username": "nguyentalk",
+        "url": "https://www.linkedin.com/in/nguyentalk"
       }
     ]
   },
