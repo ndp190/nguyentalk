@@ -34,6 +34,14 @@ footer {
   grid-area: content;
 }
 
+.sidebar-sm {
+  display: block;
+  margin-top: 3rem;
+  @media (--lg) {
+    display: none;
+  }
+}
+
 .sidebar {
   display: none;
   flex-direction: column;

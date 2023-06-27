@@ -9,6 +9,7 @@
       {{ partial "header.html" . }}
       <main>
         <div class="content">
+          {{ partial "sidebar-sm.html" . }}
           {{ block "main" . }}{{ end }}
         </div>
         {{ partial "sidebar.html" . }}

@@ -948,6 +948,18 @@ footer {
   grid-area: content;
 }
 
+.sidebar-sm {
+  display: block;
+  margin-top: 3rem;
+}
+
+@media (min-width: 992px) {
+
+.sidebar-sm {
+    display: none;
+}
+  }
+
 .sidebar {
   display: none;
   flex-direction: column;
