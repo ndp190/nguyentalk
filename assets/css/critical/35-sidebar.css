@@ -10,6 +10,17 @@
   }
 }
 
+.sidebar-sm {
+  font-family: var(--font-monospace);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+
+  & svg {
+    fill: var(--fg);
+  }
+}
+
 .sidebar__heading {
   font-size: 1.3rem;
 }
