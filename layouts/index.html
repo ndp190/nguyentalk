@@ -8,7 +8,16 @@
   <!-- See https://gohugo.io/functions/where/#mainsections -->
 
   {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{ $paginator := .Paginate $pages }}
+  {{ range $pages }}
+    <!-- Display the content of each page -->
+    <div class="content-section">
+      <h1>{{ .Title | markdownify }}</h1>
+      {{ with .Content }}
+        <div>{{ . }}</div>
+      {{ end }}
+    </div>
+  {{ end }}
+  <!-- {{ $paginator := .Paginate $pages }} -->
+  <!-- {{ partial "post-list.html" $paginator }} -->
   {{ partial "talk-to-nguyen.html" }}
-  {{ partial "post-list.html" $paginator }}
 {{ end }}
