@@ -7,4 +7,4 @@ socialShare: true
 toc: false
 ---
 
-{{< spotify type="show" id="32ioSzLQ4n56C1J25uug9p" width="100%" height="250" >}}
+{{< spotify type="episode" id="6VLoU2qFhJnbQuiupGkjMm" width="100%" height="250" >}}
