@@ -6,8 +6,8 @@
 /*! purgecss start ignore */
 
 /* Typefaces */
-@import "typeface-roboto-slab";
-@import "typeface-fira-code";
+@import "typeface-ibm-plex-mono";
+@import "typeface-ibm-plex-serif";
 
 /* Normalize */
 @import "normalize.css/normalize.css";
