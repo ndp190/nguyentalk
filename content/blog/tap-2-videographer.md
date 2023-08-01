@@ -8,3 +8,6 @@ toc: false
 ---
 
 {{< spotify type="episode" id="0vLhLqmvRT9tZxkEQQ2Ugm" width="100%" height="250" >}}
+
+Công việc ở tập 2 này là Videographer với khách mời Quang Vũ ([__quangvv__](https://www.quangvv.com/)) - Freelance videographer .<br>
+Quang sẽ đem lại góc nhìn của một người "đằng sau ống kính", cũng như chia sẻ đến thính giả các kiến thức về nghề Videographer, và về cách bạn phấn đấu khi là một người làm việc tự do.
