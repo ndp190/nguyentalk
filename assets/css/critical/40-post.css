@@ -31,7 +31,7 @@
   margin-top: 1.3rem;
 }
 
-.post-header,
+/* .post-header, -> avoid hard to see header color */
 .post-content {
   & a {
     color: var(--primary-alt);

@@ -1,7 +1,7 @@
 baseURL = "http://localhost"
 copyright = "Copyright © 2023"
 title = "Nguyen Talk"
-#paginate = 10
+paginate = 5
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header
 #enableGitInfo = true

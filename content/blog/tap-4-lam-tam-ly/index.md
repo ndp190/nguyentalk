@@ -5,14 +5,13 @@ draft: false
 comments: false
 socialShare: true
 toc: false
-<!-- cover: -->
-<!--   src: cover.png -->
 ---
 
 
 {{< spotify type="episode" id="2AuTHy19vSYhIAm310Uo5Y" width="100%" height="250" >}}
 
 Kỳ này Nguyên được trò chuyện với [__Phương__](https://www.facebook.com/kieuphuong.nguyenhuy) - Nhà tham vấn và trị liệu tâm lý tại [SoftenMind Clinic](https://softenmind.com/).<br>
+<!--more-->
 
 Bạn có bao giờ tự hỏi rằng “Tôi là ai? Tôi nên làm gì để đời mình ý nghĩa?”. Những năm đầu đi làm, Phương cũng đã từng lạc lối trong những suy tư như vậy.<br>
 
