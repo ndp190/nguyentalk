@@ -16,7 +16,7 @@ Gần 30 năm kinh nghiệm với ngành IT, cũng như đã từng làm việc 
 
 It's Nguyen Talk time!<br>
 
-I recently had the opportunity to discuss with Matt - Director of Engineering at Go1 (https://www.linkedin.com/in/matt-fitzgerald-b7b4523), during his business trip in Vietnam.
+I recently had the opportunity to discuss with [__Matt Fitzgerald__](https://www.linkedin.com/in/matt-fitzgerald-b7b4523) - Director of Engineering at Go1, during his business trip in Vietnam.
 With nearly 30 years of experience in the IT industry, having worked for giants like Amazon, HP, ... and now currently at Australia's Unicorn - Go1, Matt will provide fascinating insights about the profession and how he manages people.<br>
 
 Let's talk!
