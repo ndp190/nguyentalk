@@ -5,6 +5,9 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+cover:
+  src: ./5.jpg
+  alt: Listen to people
 ---
 
 {{< spotify type="episode" id="3NGnxY0M2h4xL8cPOdbUdX" width="100%" height="250" >}}

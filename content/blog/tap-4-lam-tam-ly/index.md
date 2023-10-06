@@ -5,6 +5,9 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+cover:
+  src: ./4.jpg
+  alt: "\"Làm\" tâm lý là làm gì"
 ---
 
 

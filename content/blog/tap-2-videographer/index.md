@@ -5,6 +5,9 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+cover:
+  src: ./2.jpg
+  alt: "Videographer có gì vui?"
 ---
 
 {{< spotify type="episode" id="0vLhLqmvRT9tZxkEQQ2Ugm" width="100%" height="250" >}}

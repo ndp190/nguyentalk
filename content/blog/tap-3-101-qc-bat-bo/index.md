@@ -5,6 +5,9 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+cover:
+  src: ./3.jpg
+  alt: "1001 Chuyện QC bắt bọ"
 ---
 
 {{< spotify type="episode" id="4yLrsVlbLrGbIE8p7M2WL8" width="100%" height="250" >}}
