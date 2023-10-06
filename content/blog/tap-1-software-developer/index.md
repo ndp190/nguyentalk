@@ -5,9 +5,8 @@ draft: false
 comments: false
 socialShare: true
 toc: false
-cover:
-  src: ./1.jpg
-  alt: Software Developer
+images:
+  - ./blog/tap-1-software-developer/1.jpg
 ---
 
 {{< spotify type="episode" id="6VLoU2qFhJnbQuiupGkjMm" width="100%" height="250" >}}

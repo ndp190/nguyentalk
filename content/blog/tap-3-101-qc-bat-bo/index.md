@@ -5,9 +5,8 @@ draft: false
 comments: false
 socialShare: true
 toc: false
-cover:
-  src: ./3.jpg
-  alt: "1001 Chuyện QC bắt bọ"
+images:
+  - ./blog/tap-3-101-qc-bat-bo/3.jpg
 ---
 
 {{< spotify type="episode" id="4yLrsVlbLrGbIE8p7M2WL8" width="100%" height="250" >}}
