@@ -5,6 +5,7 @@ draft: false
 comments: false
 socialShare: true
 toc: false
+author: Nguyen Talk
 images:
   - ./blog/tap-1-software-developer/1.jpg
 ---
