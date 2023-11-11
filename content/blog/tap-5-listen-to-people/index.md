@@ -6,10 +6,27 @@ comments: false
 socialShare: true
 toc: false
 images:
-  - ./blog/tap-5-listen-to-people/5.jpg
+  - ./blog/tap-5-listen-to-people/5.webp
 ---
 
-{{< spotify type="episode" id="3NGnxY0M2h4xL8cPOdbUdX" width="100%" height="250" >}}
+<div class="embed-tabs">
+  <input class="embed-input" name="tabs-5" type="radio" id="embed-tab-5s" checked="checked" />
+  <label class="embed-label" for="embed-tab-5s">
+    <img src="/spotify-20x20.png" alt="Icon" style="margin-right: 10px; ">
+    <p>Spotify</p>
+  </label>
+  <div class="embed-panel">
+    {{< spotify type="episode" id="3NGnxY0M2h4xL8cPOdbUdX" width="100%" height="232" >}}
+  </div>
+  <input class="embed-input" name="tabs-5" type="radio" id="embed-tab-5a"/>
+  <label class="embed-label" for="embed-tab-5a">
+    <img src="/apple-podcast-20x20.png" alt="Icon" style="margin-right: 10px; ">
+    <p>Apple</p>
+  </label>
+  <div class="embed-panel">
+    {{< apple-podcast src="https://embed.podcasts.apple.com/vn/podcast/5-director-of-engineering-talk-listen-to-people/id1703803404?i=1000630319798" >}}
+  </div>
+</div>
 
 Kỳ này, Nguyên có dịp nói về nghề "làm sếp" với [__Matt Fitzgerald__](https://www.linkedin.com/in/matt-fitzgerald-b7b4523) - Director of Engineering tại Go1, trong 1 chuyến công tác của ông ở Việt Nam.<br>
 <!--more-->

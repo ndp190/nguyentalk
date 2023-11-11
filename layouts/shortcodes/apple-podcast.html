@@ -1,0 +1,11 @@
+<!--
+Parameters:
+   src - (Required) The URL of the podcast episode
+-->
+
+{{ if .IsNamedParams }}
+<iframe id="apple-embed" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="{{ .Get "src" }}"></iframe>
+{{ else }}
+<iframe id="apple-embed" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="{{ .Get 0 }}"></iframe>
+{{ end }}
+<!-- <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/vn/podcast/6-nh%E1%BB%AFng-b%E1%BB%99-%C4%91%E1%BB%93-t%E1%BB%B7-%C4%91%C3%B4/id1703803404?i=1000634270274"></iframe> -->
