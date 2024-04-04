@@ -37,7 +37,7 @@ images:
   </div>
 </div>
 
-Theo báo cáo lương của Vietnamwork 2023, mức lương trung bình của vị trí legal & compliance cấp quản lý là từ $2800/tháng, gấp 7.5 lần lần thu nhâp trung bình của 1 người sống ở HCM là ~$375/tháng.
+Theo báo cáo lương của Vietnamwork 2023, mức lương trung bình của vị trí legal & compliance cấp quản lý là từ $2800/tháng, gấp 7.5 lần thu nhập trung bình của 1 người sống ở HCM là ~$375/tháng.
 <!--more-->
 
 Lương cao mãi là chân ái. Vậy đi kèm với mức lương như vậy, nghề “legal” này đòi hỏi kiến thức gì, và áp lực ra sao?
