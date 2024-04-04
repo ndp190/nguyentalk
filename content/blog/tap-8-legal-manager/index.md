@@ -11,24 +11,24 @@ images:
 ---
 
 <div class="embed-tabs">
-  <input class="embed-input" name="tabs-7" type="radio" id="embed-tab-7y" checked="checked" />
-  <label class="embed-label" for="embed-tab-7y">
+  <input class="embed-input" name="tabs-8" type="radio" id="embed-tab-8y" checked="checked" />
+  <label class="embed-label" for="embed-tab-8y">
     <img src="/youtube-20x20.png" alt="Icon" style="margin-right: 10px; ">
     <p>Youtube</p>
   </label>
   <div class="embed-panel">
     {{< youtube id="KX9KiOcIN7Y" >}}
   </div>
-  <input class="embed-input" name="tabs-7" type="radio" id="embed-tab-7s" />
-  <label class="embed-label" for="embed-tab-7s">
+  <input class="embed-input" name="tabs-8" type="radio" id="embed-tab-8s" />
+  <label class="embed-label" for="embed-tab-8s">
     <img src="/spotify-20x20.png" alt="Icon" style="margin-right: 10px; ">
     <p>Spotify</p>
   </label>
   <div class="embed-panel">
     {{< spotify type="episode" id="5FjVNQQFrrHvr1LTmsM1rG" width="100%" height="232" >}}
   </div>
-  <input class="embed-input" name="tabs-7" type="radio" id="embed-tab-7a"/>
-  <label class="embed-label" for="embed-tab-7a">
+  <input class="embed-input" name="tabs-8" type="radio" id="embed-tab-8a"/>
+  <label class="embed-label" for="embed-tab-8a">
     <img src="/apple-podcast-20x20.png" alt="Icon" style="margin-right: 10px; ">
     <p>Apple</p>
   </label>
