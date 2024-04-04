@@ -33,7 +33,7 @@ images:
     <p>Apple</p>
   </label>
   <div class="embed-panel">
-    {{< apple-podcast src="" >}}
+    {{< apple-podcast src="https://embed.podcasts.apple.com/us/podcast/8-l%C3%A0m-legal-lu%E1%BA%ADt-n%C3%A0o-c%C5%A9ng-bi%E1%BA%BFt/id1703803404?i=1000651432326" >}}
   </div>
 </div>
 
